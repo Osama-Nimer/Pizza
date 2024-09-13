@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\bin\Debug\Pizza.exe
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\bin\Debug\Pizza.pdb
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.exe
+C:\Users\ASUS\Documents\FullStack\C#\Pizza\obj\Debug\Pizza.pdb

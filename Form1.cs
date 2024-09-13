@@ -16,5 +16,10 @@ namespace Pizza
         {
             InitializeComponent();
         }
+
+        private void lbPizza_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
